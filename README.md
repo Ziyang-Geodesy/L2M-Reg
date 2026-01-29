@@ -64,3 +64,21 @@ Building **L2M-Reg** in Windows requires the following compiler and library to b
 2. Point Cloud Library (PCL) (>= 1.13.0)
 
 ---
+
+## Upcoming
+
+The following content will come soon:
+
+1. Code
+2. Data
+3. Usage
+4. Repository Structure
+5. ...
+
+---
+
+## Acknowledgements
+
+This research was funded by [TUM Georg Nemetschek Institute of Artificial Intelligence for the Built World](https://www.mdsi.tum.de/gni/startseite/), project "[**NERF2BIM**](https://www.asg.ed.tum.de/gds/forschung-research/projects/nerf2bim/#c23826)”. Many thanks to the City of Munich / GeodatenService for supporting this research, to [3D Mapping Solutions](https://www.3d-mapping.de/) for providing the MLS point clouds of Ingolstadt as part of the SAVeNoW research project, and to [Leonard Trill](https://www.asg.ed.tum.de/gds/team/leonard-trill/) for data collection.
+
+---
