@@ -13,6 +13,7 @@
   <img src="assets/workflow.png" alt="L2M-Reg workflow." width="900"/>
   <figcaption><b>Figure 1.</b> The proposed L2M-Reg. Each plane of the input semantic LoD2 model is colored for better visualization, and the point cloud is colored by intensity.</figcaption>
 </figure>
+
 ---
 
 ## Abstract
@@ -36,6 +37,7 @@ Accurate registration between LiDAR (Light Detection and Ranging) point clouds a
   <figcaption><b>Figure 1.</b> Flowchart of the proposed L2M-Reg. Each plane of the input semantic LoD2 model is colored
 for better visualization, and the point cloud is colored by intensity.</figcaption>
 </figure>
+
 ---
 
 ## Results
@@ -49,6 +51,7 @@ for better visualization, and the point cloud is colored by intensity.</figcapti
   <img src="assets/Evaluation_Restaurant.png" alt="Registration performance of different methods in the Restaurant dataset." width="900"/>
   <figcaption><b>Figure 1.</b> Registration performance of different methods on the Restaurant dataset.</figcaption>
 </figure>
+
 ---
 
 ## Installation
@@ -57,4 +60,5 @@ Building **L2M-Reg** in Windows requires the following compiler and library to b
 
 1. Microsoft Visual Studio (>= 2013).
 2. Point Cloud Library (PCL) (>= 1.13.0)
+
 ---
