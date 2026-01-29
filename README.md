@@ -80,6 +80,6 @@ The following content will come soon:
 
 ## Acknowledgements
 
-This research was funded by [TUM Georg Nemetschek Institute of Artificial Intelligence for the Built World](https://www.mdsi.tum.de/gni/startseite/), project "[**NERF2BIM**](https://www.asg.ed.tum.de/gds/forschung-research/projects/nerf2bim/#c23826)”. Many thanks to the City of Munich / GeodatenService for supporting this research, to [3D Mapping Solutions](https://www.3d-mapping.de/) for providing the MLS point clouds of Ingolstadt as part of the SAVeNoW research project, and to [Leonard Trill](https://www.asg.ed.tum.de/gds/team/leonard-trill/) for data collection.
+This research was funded by [TUM Georg Nemetschek Institute of Artificial Intelligence for the Built World](https://www.mdsi.tum.de/gni/startseite/), project "[NERF2BIM](https://www.asg.ed.tum.de/gds/forschung-research/projects/nerf2bim/#c23826)”. Many thanks to the City of Munich / GeodatenService for supporting this research, to [3D Mapping Solutions](https://www.3d-mapping.de/) for providing the MLS point clouds of Ingolstadt as part of the SAVeNoW research project, and to [Leonard Trill](https://www.asg.ed.tum.de/gds/team/leonard-trill/) for data collection.
 
 ---
