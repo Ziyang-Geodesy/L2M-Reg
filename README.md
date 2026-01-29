@@ -1,4 +1,4 @@
-# [ISPRS, 2026]L2M-Reg: Building-level Uncertainty-aware Registration of Outdoor LiDAR Point Clouds and Semantic 3D City Models
+# [ISPRS,2026]L2M-Reg: Building-level Uncertainty-aware Registration of Outdoor LiDAR Point Clouds and Semantic 3D City Models
 
 > 🚧 **Status: Under construction.**  
 > Code and data are being organized and will be released very soon!
@@ -24,7 +24,9 @@ Accurate registration between LiDAR (Light Detection and Ranging) point clouds a
 ## Key Contributions
 
 - A plane-based LiDAR-to-Model fine registration method, L2M-Reg, tailored for individual buildings is proposed. It integrates reliable plane correspondence establishment, pseudo-plane-constraint Gauss-Helmert Model (GHM), and adaptable vertical translation estimation. By explicitly considering the uncertainty in LoD2 models, L2M-Reg achieves superior performance on all five real-world datasets.
+  
 - A 2D-3D decoupled transformation parameter estimation strategy is introduced to mitigate the adverse impact of low-quality ground model data on the overall accuracy of 6 Degree-of-Freedom (DoF) parameter estimation. By decoupling vertical and horizontal components, this strategy effectively prevents high ground model uncertainty from degrading horizontal registration accuracy.
+  
 - A lightweight plane correspondence strategy is developed that leverages the embedded semantic information in LoD2 models. It eliminates the conventional need for converting models into point clouds and performing feature-based matching, thereby significantly improving robustness and computational efficiency. Furthermore, it is built upon the internationally recognized CityGML standard, ensuring high interoperability and ease of adoption across different countries and regions.
 
 ---
@@ -34,7 +36,7 @@ Accurate registration between LiDAR (Light Detection and Ranging) point clouds a
 
 <figure align="center">
   <img src="assets/dataset.jpg" alt="Five datasets tested on L2M-Reg." width="900"/>
-  <figcaption><b>Figure 1.</b> Flowchart of the proposed L2M-Reg. Each plane of the input semantic LoD2 model is colored
+  <figcaption><b>Figure 2.</b> Flowchart of the proposed L2M-Reg. Each plane of the input semantic LoD2 model is colored
 for better visualization, and the point cloud is colored by intensity.</figcaption>
 </figure>
 
@@ -44,12 +46,12 @@ for better visualization, and the point cloud is colored by intensity.</figcapti
 
 <figure align="center">
   <img src="assets/Evaluation_Pinakothek.png" alt="Registration performance of different methods in the Pinakothek dataset." width="900"/>
-  <figcaption><b>Figure 1.</b> Registration performance of different methods on the Pinakothek dataset.</figcaption>
+  <figcaption><b>Figure 3.</b> Registration performance of different methods on the Pinakothek dataset.</figcaption>
 </figure>
 
 <figure align="center">
   <img src="assets/Evaluation_Restaurant.png" alt="Registration performance of different methods in the Restaurant dataset." width="900"/>
-  <figcaption><b>Figure 1.</b> Registration performance of different methods on the Restaurant dataset.</figcaption>
+  <figcaption><b>Figure 4.</b> Registration performance of different methods on the Restaurant dataset.</figcaption>
 </figure>
 
 ---
