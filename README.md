@@ -5,7 +5,7 @@
 
 ## Overview
 
-**L2M-Reg** is a building-level fine registration method between **outdoor LiDAR point clouds** and **semantic 3D city models (LoD2)** that explicitly accounts for **model generalization uncertainty**. It is designed as a reliable prerequisite for urban digital twinning tasks such as **digital construction**, **change detection**, and **model refinement**.  
+**L2M-Reg** is a building-level fine registration method between **outdoor LiDAR point clouds** and **semantic 3D city models (LoD2)** that explicitly accounts for **model generalization uncertainty**. It is designed as a reliable prerequisite for **urban digital twinning** tasks such as digital construction, change detection, and model refinement.  
 **Authors**: [Ziyang Xu](https://www.asg.ed.tum.de/gds/xu/) · [Benedikt Schwab](https://www.asg.ed.tum.de/en/gis/our-team/staff/benedikt-schwab/) · [Yihui Yang](https://www.asg.ed.tum.de/gds/team/yihui-yang/) · [Thomas H. Kolbe](https://www.asg.ed.tum.de/en/gis/our-team/staff/prof-thomas-h-kolbe/) · [Christoph Holst](https://www.asg.ed.tum.de/gds/holst/)  
 **Affiliation**: [Chair of Engineering Geodesy, Technical University of Munich](https://www.asg.ed.tum.de/gds/home/), [Chair of Geoinformatics, Technical University of Munich](https://www.asg.ed.tum.de/en/gis/home/)
 
@@ -44,5 +44,15 @@ Accurate registration between LiDAR (Light Detection and Ranging) point clouds a
   <img src="assets/Evaluation_Pinakothek.png" alt="Registration performance of different methods in the Pinakothek dataset." width="900"/>
 </p>
 
+<p align="center">
+  <img src="assets/Evaluation_Restaurant.png" alt="Registration performance of different methods in the Restaurant dataset." width="900"/>
+</p>
 ---
 
+## Installation
+
+Building **L2M-Reg** in Windows requires the following compiler and library to be installed:
+
+1. Microsoft Visual Studio (>= 2013).
+2. Point Cloud Library (PCL) (>= 1.13.0)
+---
