@@ -9,10 +9,6 @@
 **Authors**: [Ziyang Xu](https://www.asg.ed.tum.de/gds/xu/) · [Benedikt Schwab](https://www.asg.ed.tum.de/en/gis/our-team/staff/benedikt-schwab/) · [Yihui Yang](https://www.asg.ed.tum.de/gds/team/yihui-yang/) · [Thomas H. Kolbe](https://www.asg.ed.tum.de/en/gis/our-team/staff/prof-thomas-h-kolbe/) · [Christoph Holst](https://www.asg.ed.tum.de/gds/holst/)  
 **Affiliation**: [Chair of Engineering Geodesy, Technical University of Munich](https://www.asg.ed.tum.de/gds/home/), [Chair of Geoinformatics, Technical University of Munich](https://www.asg.ed.tum.de/en/gis/home/)
 
-
-<p align="center">
-  <img src="assets/workflow.png" alt="L2M-Reg workflow" width="900"/>
-</p>
 <figure align="center">
   <img src="assets/workflow.png" alt="L2M-Reg workflow." width="900"/>
   <figcaption><b>Figure 1.</b> Five datasets tested on L2M-Reg.</figcaption>
