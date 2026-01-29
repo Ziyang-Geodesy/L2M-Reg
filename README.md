@@ -40,13 +40,15 @@ Accurate registration between LiDAR (Light Detection and Ranging) point clouds a
 
 ## Results
 
-<p align="center">
+<figure align="center">
   <img src="assets/Evaluation_Pinakothek.png" alt="Registration performance of different methods in the Pinakothek dataset." width="900"/>
-</p>
+  <figcaption><b>Figure 1.</b> Registration performance of different methods on the Pinakothek dataset.</figcaption>
+</figure>
 
 <p align="center">
   <img src="assets/Evaluation_Restaurant.png" alt="Registration performance of different methods in the Restaurant dataset." width="900"/>
 </p>
+
 ---
 
 ## Installation
