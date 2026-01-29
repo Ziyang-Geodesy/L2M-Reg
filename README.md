@@ -8,6 +8,7 @@
 **L2M-Reg** is a building-level fine registration method between outdoor **LiDAR point clouds** and **semantic 3D city models (LoD2)** that explicitly accounts for **model generalization uncertainty**. It is designed as a reliable prerequisite for **urban digital twinning** tasks such as digital construction, change detection, and model refinement.  
 **Authors**: [Ziyang Xu](https://www.asg.ed.tum.de/gds/xu/) · [Benedikt Schwab](https://www.asg.ed.tum.de/en/gis/our-team/staff/benedikt-schwab/) · [Yihui Yang](https://www.asg.ed.tum.de/gds/team/yihui-yang/) · [Thomas H. Kolbe](https://www.asg.ed.tum.de/en/gis/our-team/staff/prof-thomas-h-kolbe/) · [Christoph Holst](https://www.asg.ed.tum.de/gds/holst/)  
 **Affiliation**: [Chair of Engineering Geodesy, Technical University of Munich](https://www.asg.ed.tum.de/gds/home/), [Chair of Geoinformatics, Technical University of Munich](https://www.asg.ed.tum.de/en/gis/home/)
+**Contact**: ziyang.xu@tum.de
 
 <figure align="center">
   <img src="assets/workflow.png" alt="L2M-Reg workflow." width="900"/>
@@ -60,7 +61,7 @@ for better visualization, and the point cloud is colored by intensity.</figcapti
 
 Building **L2M-Reg** in Windows requires the following compiler and library to be installed:
 
-1. Microsoft Visual Studio (>= 2013).
+1. Microsoft Visual Studio (>= 2019).
 2. Point Cloud Library (PCL) (>= 1.13.0)
 
 ---
