@@ -13,7 +13,10 @@
 <p align="center">
   <img src="assets/workflow.png" alt="L2M-Reg workflow" width="900"/>
 </p>
-
+<figure align="center">
+  <img src="assets/workflow.png" alt="L2M-Reg workflow." width="900"/>
+  <figcaption><b>Figure 1.</b> Five datasets tested on L2M-Reg.</figcaption>
+</figure>
 ---
 
 ## Abstract
@@ -32,10 +35,11 @@ Accurate registration between LiDAR (Light Detection and Ranging) point clouds a
 
 ## Datasets
 
-<p align="center">
-  <img src="assets/dataset.jpg" alt="Five datasets tested on L2M-Reg" width="900"/>
-</p>
-
+<figure align="center">
+  <img src="assets/dataset.jpg" alt="Five datasets tested on L2M-Reg." width="900"/>
+  <figcaption><b>Figure 1.</b> Flowchart of the proposed L2M-Reg. Each plane of the input semantic LoD2 model is colored
+for better visualization, and the point cloud is colored by intensity.</figcaption>
+</figure>
 ---
 
 ## Results
@@ -45,10 +49,10 @@ Accurate registration between LiDAR (Light Detection and Ranging) point clouds a
   <figcaption><b>Figure 1.</b> Registration performance of different methods on the Pinakothek dataset.</figcaption>
 </figure>
 
-<p align="center">
+<figure align="center">
   <img src="assets/Evaluation_Restaurant.png" alt="Registration performance of different methods in the Restaurant dataset." width="900"/>
-</p>
-
+  <figcaption><b>Figure 1.</b> Registration performance of different methods on the Restaurant dataset.</figcaption>
+</figure>
 ---
 
 ## Installation
