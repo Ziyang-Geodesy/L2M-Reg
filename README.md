@@ -6,11 +6,9 @@
 ## Overview
 
 **L2M-Reg** is a building-level fine registration method between **outdoor LiDAR point clouds** and **semantic 3D city models (LoD2)** that explicitly accounts for **model generalization uncertainty**. It is designed as a reliable prerequisite for urban digital twinning tasks such as **digital construction**, **change detection**, and **model refinement**.
-**Paper title**: *L2M-Reg: Building-level Uncertainty-aware Registration of Outdoor LiDAR Point Clouds and Semantic 3D City Models*  
 **Authors**: Ziyang Xu, Benedikt Schwab, Yihui Yang, Thomas H. Kolbe, Christoph Holst  
 **Affiliation**: Technical University of Munich (TUM)
 
-**Workflow**  
 <p align="center">
   <img src="assets/workflow.png" alt="L2M-Reg workflow" width="900"/>
 </p>
