@@ -5,13 +5,13 @@
 
 ## Overview
 
-**L2M-Reg** is a building-level fine registration method between **outdoor LiDAR point clouds** and **semantic 3D city models (LoD2)** that explicitly accounts for **model generalization uncertainty**. It is designed as a reliable prerequisite for **urban digital twinning** tasks such as digital construction, change detection, and model refinement.  
+**L2M-Reg** is a building-level fine registration method between outdoor **LiDAR point clouds** and **semantic 3D city models (LoD2)** that explicitly accounts for **model generalization uncertainty**. It is designed as a reliable prerequisite for **urban digital twinning** tasks such as digital construction, change detection, and model refinement.  
 **Authors**: [Ziyang Xu](https://www.asg.ed.tum.de/gds/xu/) · [Benedikt Schwab](https://www.asg.ed.tum.de/en/gis/our-team/staff/benedikt-schwab/) · [Yihui Yang](https://www.asg.ed.tum.de/gds/team/yihui-yang/) · [Thomas H. Kolbe](https://www.asg.ed.tum.de/en/gis/our-team/staff/prof-thomas-h-kolbe/) · [Christoph Holst](https://www.asg.ed.tum.de/gds/holst/)  
 **Affiliation**: [Chair of Engineering Geodesy, Technical University of Munich](https://www.asg.ed.tum.de/gds/home/), [Chair of Geoinformatics, Technical University of Munich](https://www.asg.ed.tum.de/en/gis/home/)
 
 <figure align="center">
   <img src="assets/workflow.png" alt="L2M-Reg workflow." width="900"/>
-  <figcaption><b>Figure 1.</b> Five datasets tested on L2M-Reg.</figcaption>
+  <figcaption><b>Figure 1.</b> The proposed L2M-Reg. Each plane of the input semantic LoD2 model is colored for better visualization, and the point cloud is colored by intensity.</figcaption>
 </figure>
 ---
 
