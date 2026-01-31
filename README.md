@@ -37,8 +37,7 @@ Accurate registration between LiDAR (Light Detection and Ranging) point clouds a
 
 <figure align="center">
   <img src="assets/dataset.jpg" alt="Five datasets tested on L2M-Reg." width="900"/>
-  <figcaption><b>Figure 2.</b> Flowchart of the proposed L2M-Reg. Each plane of the input semantic LoD2 model is colored
-for better visualization, and the point cloud is colored by intensity.</figcaption>
+  <figcaption><b>Figure 2.</b> Five datasets tested on L2M-Reg.</figcaption>
 </figure>
 
 ---
